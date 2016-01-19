@@ -1,2 +1,3 @@
 # TheDiscover
-UBC MSS Project -Term 4
+
+UBC MSS Course Project -Term 4
